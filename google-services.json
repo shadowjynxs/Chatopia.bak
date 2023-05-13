@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "2079401373",
+    "project_id": "gateway-c1fbe",
+    "storage_bucket": "gateway-c1fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2079401373:android:e506c4168d31282e87bb74",
+        "android_client_info": {
+          "package_name": "com.example.gateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2079401373-n5l36quc2cj6l6iim8qcrgl6c2m4bbvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDlG_xJ9ghm0Vob0R4_AhYtvigERQWaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2079401373-n5l36quc2cj6l6iim8qcrgl6c2m4bbvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2079401373:android:7a65304445b7c92587bb74",
+        "android_client_info": {
+          "package_name": "com.nxs.chatopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2079401373-n5l36quc2cj6l6iim8qcrgl6c2m4bbvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbDlG_xJ9ghm0Vob0R4_AhYtvigERQWaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2079401373-n5l36quc2cj6l6iim8qcrgl6c2m4bbvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chatopia</string>
+    <string name="app_loginBtn">Login</string>
+    <string name="app_loginDesc">Login Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Don\'t Remember password? Recover It</string>
+    <string name="signup">Don\'t Have an account? Sign Up</string>
+    <string name="app_desc">Welcome to\nChatopia</string>
+    <string name="app_info">Get Started</string>
+    <string name="app_signupDesc">Signup Here</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="login">Already Have an Account? Log in</string>
+    <string name="app_signupBtn">Sign Up</string>
+</resources>
